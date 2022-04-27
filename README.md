@@ -1,2 +1,2 @@
-# mufenv
-The environment manager of mufpkg
+# mfnv
+The environment manager of mfpkg
