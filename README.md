@@ -1,2 +1,2 @@
-# mfpm-env
+# mfenv
 The environment manager of mfpm
